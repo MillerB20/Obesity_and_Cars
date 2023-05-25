@@ -1,0 +1,100 @@
+﻿Country,Cars,Ob,Region,GDP Per Capita
+Vietnam,53,2.1,Asia,8651
+Bangladesh,27,3.6,Asia,5083
+India,59,3.9,Asia,6454
+Cambodia,27,3.9,Asia,4422
+Japan,624,4.3,Asia,42197
+South Korea,485,4.7,Asia,43124
+Sri Lanka,157,5.2,Asia,13225
+Madagascar,48,5.3,Africa,1593
+Uganda,21,5.3,Africa,2297
+Afghanistan,61,5.5,Asia,2088
+Niger,18,5.5,Africa,1263
+Burkina Faso,22,5.6,Africa,2279
+Rwanda,17,5.8,Africa,2214
+Malawi,13,5.8,Africa,1568
+Chad,77,6.1,Africa,1603
+China,226,6.2,Asia,17312
+Philippines,45,6.4,Asia,8390
+Sudan,4,6.6,Africa,4244
+Indonesia,82,6.9,Asia,12074
+Kenya,69,7.1,Africa,4452
+Mozambique,26,7.2,Africa,1297
+Guinea,20,7.7,Africa,2818
+Zambia,29,8.1,Africa,3450
+Angola,36,8.2,Africa,6539
+Somalia,5,8.3,Africa,875.2
+Tanzania,12,8.4,Africa,2780
+Pakistan,29,8.6,Asia,6370
+Mali,13,8.6,Africa,2339
+Sierra Leone,40,8.7,Africa,1739
+Senegal,65,8.8,Africa,3481
+Nigeria,61,8.9,Africa,5187
+Benin,27,9.6,Africa,3506
+Thailand,280,10,Asia,18236
+Ghana,46,10.9,Africa,5596
+Cameroon,18,11.4,Africa,3773
+Zimbabwe,76,15.5,Africa,2895
+Malaysia,542,15.6,Asia,27887
+Kyrgyzstan,201,16.6,Asia,4965
+Uzbekistan,87,16.6,Asia,7378
+Yemen,52,17.1,Asia,3689
+Turkmenistan,102,18.6,Asia,16196
+Switzerland,604,19.5,Europe,71352
+Denmark,540,19.7,Europe,60399
+Peru,116,19.7,South America,11879
+Italy,755,19.9,Europe,41840
+Azerbaijan,146,19.9,Asia,14452
+Ecuador,143,19.9,South America,10896
+Austria,572,20.1,Europe,55098
+Bolivia,174,20.2,South America,8367
+Netherlands,588,20.4,Europe,59229
+Slovakia,513,20.5,Europe,31832
+Sweden,545,20.6,Europe,54563
+Portugal,639,20.8,Europe,34496
+Kazakhstan,207,21,Asia,26729
+Guatemala,237,21.2,North America,8854
+Honduras,222,21.4,North America,5421
+Serbia,389,21.5,Europe,19231
+France,668,21.6,Europe,46227
+Belgium,590,22.1,Europe,51968
+Brazil,215,22.1,South America,14836
+Finland,790,22.2,Europe,51090
+Germany,628,22.3,Europe,53694
+Colombia,324,22.3,South America,14565
+Romania,441,22.5,Europe,31946
+Haiti,11,22.7,North America,2925
+Poland,771,23.1,Europe,34265
+Norway,635,23.1,Europe,63198
+Russia,395,23.1,Europe,28213
+Nicaragua,144,23.7,North America,5570
+Spain,627,23.8,Europe,38335
+Ukraine,245,24.1,Europe,13057
+Belarus,343,24.5,Europe,20200
+El Salvador,68,24.6,North America,8499
+Greece,606,24.9,Europe,28464
+Bulgaria,482,25,Europe,24367
+Ireland,535,25.3,Europe,93612
+Venezuela,140,25.6,South America,17528
+Costa Rica,287,25.7,North America,21032
+Iran,175,25.8,Asia,13116
+Israel,390,26.1,Asia,41855
+Morocco,111,26.1,Africa,7296
+Hungary,463,26.4,Europe,33084
+Tunisia,177,26.9,Africa,10262
+Algeria,149,27.4,Africa,11268
+United Kingdom,600,27.8,Europe,44916
+Dominican Republic,442,27.8,North America,17937
+Chile,293,28,South America,25068
+Argentina,373,28.3,South America,20768
+South Africa,232,28.3,Africa,12096
+Mexico,391,28.9,North America,18833
+Australia,782,29,Oceania,52518
+Canada,790,29.4,North America,48073
+New Zealand,884,30.8,Oceania,44252
+United Arab Emirates,354,31.7,Asia,69958
+Lebanon,295,32,Asia,12289
+Egypt,70,32,Africa,12608
+Turkey,254,32.1,Asia,28120
+Saudi Arabia,156,35.4,Asia,46763
+United States,831,41.9,North America,63544
